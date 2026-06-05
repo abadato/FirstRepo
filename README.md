@@ -8,4 +8,4 @@
 
 * My first repo - *work in progress*
 
-  Here you will fidn the readme.md. file.
+  Here you will find the readme.md. file.
